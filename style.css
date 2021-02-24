@@ -30,7 +30,7 @@ img {
 h2 {
     color: darkcyan;
 }
-body{
+.container{
     text-align: center;
     background: red;
 }
