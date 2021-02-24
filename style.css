@@ -1,5 +1,5 @@
 #myCarousel {
-    background-color: red;
+    background-color:chartreuse ;
 }
 
 .line {
@@ -16,17 +16,21 @@
 
 img {
     height: 300px;
-  margin-top: 35px;  
+    margin-top: 35px;
 }
-.grid img{
+
+.grid img {
     padding-left: 20px;
     height: 300px;
     width: 280px
 }
-body{
-    background-color: chartreuse;
-    text-align: center;
-}
-h2{
+
+
+
+h2 {
     color: darkcyan;
+}
+body{
+    text-align: center;
+    background: red;
 }
